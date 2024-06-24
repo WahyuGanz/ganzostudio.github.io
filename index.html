@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Ganzo Studio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="background-overlay"></div>
+    <div class="login-container">
+        <div class="login-content">
+            <div class="login-logo">
+                <img src="images/logo.png" alt="Ganzo Studio Logo">
+            </div>
+            <div class="login-form">
+                <h1>Ganzo Studio</h1>
+                <form id="loginForm">
+                    <div class="input-group">
+                        <label for="username">Username</label>
+                        <input type="text" id="username" name="username" required>
+                    </div>
+                    <div class="input-group">
+                        <label for="password">Password</label>
+                        <input type="password" id="password" name="password" required>
+                    </div>
+                    <div class="input-group">
+                        <label for="token">Token</label>
+                        <input type="text" id="token" name="token" required>
+                    </div>
+                    <button type="submit">Login</button>
+                </form>
+                <p id="error-message"></p>
+            </div>
+        </div>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>
