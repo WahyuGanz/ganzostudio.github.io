@@ -25,6 +25,12 @@ document.addEventListener('DOMContentLoaded', function() {
             link: "../../films/diambangkematian/diambangkematian.html"
         },
         {
+            title: "DreadOut",
+            poster: "../../images/dreadout.jpg",
+            description: "Horor/Petualangan",
+            link: "../../films/dreadout/dreadout.html"
+        },
+        {
             title: "Five Nights at Freddy's",
             poster: "../../images/fivenightsatfreddys.jpg",
             description: "Horor/Misteri",
@@ -209,12 +215,6 @@ document.addEventListener('DOMContentLoaded', function() {
             poster: "../../images/wakaf.jpeg",
             description: "Horor/Indonesia",
             link: "../../films/wakaf/wakaf.html"
-        },
-        {
-            title: "DreadOut",
-            poster: "../../images/dreadout.jpg",
-            description: "Horor/Petualangan",
-            link: "../../films/dreadout/dreadout.html"
         },
         // Tambahkan film lain di sini
     ];
