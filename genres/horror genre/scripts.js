@@ -86,79 +86,79 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             title: "Lampor Keranda Terbang",
-            poster: "https://i.imgur.com/9cbIfX4.jpeg",
+            poster: "https://i.imgur.com/TDjJQP1.jpeg",
             description: "Horor/Misteri",
             link: "../../films/lampor/lampor.html"
         },
         {
             title: "Makmum",
-            poster: "../../images/makmum.jpg",
+            poster: "https://i.imgur.com/ntOq1Jz.jpeg",
             description: "Horor/Indonesia",
             link: "../../films/makmum/makmum.html"
         },
         {
             title: "Makmum 2",
-            poster: "../../images/makmum2.jpg",
+            poster: "https://i.imgur.com/Elrefo3.jpeg",
             description: "Horor/Indonesia",
             link: "../../films/makmum2/makmum2.html"
         },
         {
             title: "Malam Para Jahanam",
-            poster: "../../images/malamparajahanam.jpeg",
+            poster: "https://i.imgur.com/aFhqxj7.jpeg",
             description: "Horor/Cerita seru",
             link: "../../films/malamparajahanam/malamparajahanam.html"
         },
         {
             title: "Mantra Surugana",
-            poster: "../../images/mantrasurugana.jpeg",
+            poster: "https://i.imgur.com/j4cWkkK.jpeg",
             description: "Horor/Misteri",
             link: "../../films/mantrasurugana/mantrasurugana.html"
         },
         {
             title: "Pamali",
-            poster: "../../images/pamali.jpeg",
+            poster: "https://i.imgur.com/eeGEVk5.jpeg",
             description: "Horor/Misteri",
             link: "../../films/pamali/pamali.html"
         },
         {
             title: "Pamali: Dusun Pocong",
-            poster: "../../images/pamalidusunpocong.jpg",
+            poster: "https://i.imgur.com/drv7asv.jpeg",
             description: "Horor/Misteri",
             link: "../../films/pamalidusunpocong/pamalidusunpocong.html"
         },
         {
             title: "Panggonan Wingit",
-            poster: "../../images/panggonanwingit.jpg",
+            poster: "https://i.imgur.com/eHtuNo3.jpeg",
             description: "Horor/Indonesia",
             link: "../../films/panggonanwingit/panggonanwingit.html"
         },
         {
             title: "Primbon",
-            poster: "../../images/primbon.jpg",
+            poster: "https://i.imgur.com/AHWaFLL.jpeg",
             description: "Horor/Drama",
             link: "../../films/primbon/primbon.html"
         },
         {
             title: "Ritual Tumbal Terakhir",
-            poster: "../../images/ritualtumbalterakhir.jpeg",
+            poster: "https://i.imgur.com/R85nSO6.jpeg",
             description: "Horor/Indonesia",
             link: "../../films/ritualtumbalterakhir/ritualtumbalterakhir.html"
         },
         {
             title: "Saranjana: Kota Ghaib",
-            poster: "../../images/saranjanakotaghoib.jpg",
+            poster: "https://i.imgur.com/x1wAi5r.jpeg",
             description: "Horor/Petualangan",
             link: "../../films/saranjanakotaghoib/saranjanakotaghoib.html"
         },
         {
             title: "Sekte",
-            poster: "../../images/sekte.jpeg",
+            poster: "https://i.imgur.com/LBc8VOh.jpeg",
             description: "Horor/Drama",
             link: "../../films/sekte/sekte.html"
         },
         {
             title: "Sewu Dino",
-            poster: "../../images/sewudino.jpg",
+            poster: "https://i.imgur.com/EuxRVyO.jpeg",
             description: "Horor/Misteri",
             link: "../../films/sewudino/sewudino.html"
         },
