@@ -80,13 +80,13 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             title: "Kutukan Sembilan Setan",
-            poster: "../../images/kutukansembilansetan.jpeg",
+            poster: "https://i.imgur.com/w9m3M3u.jpeg",
             description: "Horor/Misteri",
             link: "../../films/kutukansembilansetan/kutukansembilansetan.html"
         },
         {
             title: "Lampor Keranda Terbang",
-            poster: "../../images/lampor.jpg",
+            poster: "https://i.imgur.com/9cbIfX4.jpeg",
             description: "Horor/Misteri",
             link: "../../films/lampor/lampor.html"
         },
