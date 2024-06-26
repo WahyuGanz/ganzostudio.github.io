@@ -164,55 +164,55 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             title: "Sijjin",
-            poster: "../../images/sijjin.jpg",
+            poster: "https://i.imgur.com/BJP3O9Y.jpeg",
             description: "Horor/Religi",
             link: "../../films/sijjin/sijjin.html"
         },
         {
             title: "Siksa Neraka",
-            poster: "../../images/siksaneraka.jpg",
+            poster: "https://i.imgur.com/LD1LXiI.jpeg",
             description: "Horor/Film jagal",
             link: "../../films/siksaneraka/siksaneraka.html"
         },
         {
             title: "Sinden Gaib",
-            poster: "../../images/sindengaib.jpg",
+            poster: "https://i.imgur.com/wguodRv.jpeg",
             description: "Horor/Misteri",
             link: "../../films/sindengaib/sindengaib.html"
         },
         {
             title: "Sosok Ketiga",
-            poster: "../../images/sosokketiga.jpg",
+            poster: "https://i.imgur.com/sS2JhsF.jpeg",
             description: "Horor/Misteri",
             link: "../../films/sosokketiga/sosokketiga.html"
         },
         {
             title: "Susuk: Kutukan Kecantikan",
-            poster: "../../images/susukkutukankecantikan.jpg",
+            poster: "https://i.imgur.com/t5sl66O.jpeg",
             description: "Horor/Indonesia",
             link: "../../films/susukkutukankecantikan/susukkutukankecantikan.html"
         },
         {
             title: "Suzzanna: Malam Jumat Kliwon",
-            poster: "../../images/suzzannamalamjumatkliwon.jpg",
+            poster: "https://i.imgur.com/KSR4VSD.jpeg",
             description: "Horor/Misteri",
             link: "../../films/suzzannamalamjumatkliwon/suzzannamalamjumatkliwon.html"
         },
         {
             title: "Tasbih Kosong",
-            poster: "../../images/tasbihkosong.jpg",
+            poster: "https://i.imgur.com/q9EBPwS.jpeg",
             description: "Horor/Indonesia",
             link: "../../films/tasbihkosong/tasbihkosong.html"
         },
         {
             title: "Trinil: Kembalikan Tubuhku",
-            poster: "../../images/trinil.jpg",
+            poster: "https://i.imgur.com/URdSEFg.jpeg",
             description: "Horor/Drama",
             link: "../../films/trinilkembalikantubuhku/trinilkembalikantubuhku.html"
         },
         {
             title: "Wakaf",
-            poster: "../../images/wakaf.jpeg",
+            poster: "https://i.imgur.com/ytfSjTb.jpeg",
             description: "Horor/Indonesia",
             link: "../../films/wakaf/wakaf.html"
         },
