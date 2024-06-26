@@ -92,37 +92,37 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             title: "Makmum",
-            poster: "https://i.imgur.com/ntOq1Jz.jpeg",
+            poster: "https://i.imgur.com/XctqLft.jpeg",
             description: "Horor/Indonesia",
             link: "../../films/makmum/makmum.html"
         },
         {
             title: "Makmum 2",
-            poster: "https://i.imgur.com/Elrefo3.jpeg",
+            poster: "https://i.imgur.com/0M5jnmU.jpeg",
             description: "Horor/Indonesia",
             link: "../../films/makmum2/makmum2.html"
         },
         {
             title: "Malam Para Jahanam",
-            poster: "https://i.imgur.com/aFhqxj7.jpeg",
+            poster: "https://i.imgur.com/M5rQkCF.jpeg",
             description: "Horor/Cerita seru",
             link: "../../films/malamparajahanam/malamparajahanam.html"
         },
         {
             title: "Mantra Surugana",
-            poster: "https://i.imgur.com/j4cWkkK.jpeg",
+            poster: "https://i.imgur.com/MgMZCha.jpeg",
             description: "Horor/Misteri",
             link: "../../films/mantrasurugana/mantrasurugana.html"
         },
         {
             title: "Pamali",
-            poster: "https://i.imgur.com/eeGEVk5.jpeg",
+            poster: "https://i.imgur.com/hedI3Ko.jpeg",
             description: "Horor/Misteri",
             link: "../../films/pamali/pamali.html"
         },
         {
             title: "Pamali: Dusun Pocong",
-            poster: "https://i.imgur.com/drv7asv.jpeg",
+            poster: "https://i.imgur.com/02fCFun.jpeg",
             description: "Horor/Misteri",
             link: "../../films/pamalidusunpocong/pamalidusunpocong.html"
         },
