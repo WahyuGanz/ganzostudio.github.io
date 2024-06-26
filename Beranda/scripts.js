@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             title: "Adit Sopo Jarwo the Movie",
-            poster: "../images/aditsopojarwothemovie.jpg",
+            poster: "https://i.imgur.com/I9tUYMB.jpeg",
             description: "Petualangan. Komedi. Animation. Indonesia",
             link: "../films/aditsopojarwothemovie/aditsopojarwothemovie.html"
         },
