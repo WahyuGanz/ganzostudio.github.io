@@ -14,25 +14,25 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             title: "KKN di Desa Penari: Luwih Dowo, Luwih Medeni",
-            poster: "../images/kknluwehdowo.jpg",
+            poster: "https://i.imgur.com/lB2680z.jpeg",
             description: "Horor. Misteri. Indonesia",
             link: "../films/kknluwihdowo/kknluwihdowo.html"
         },
         {
             title: "Upin & Ipin: Keris Siamang Tunggal",
-            poster: "../images/upinipinkerissiamangtunggal.jpeg",
+            poster: "https://i.imgur.com/yIHzDEY.jpeg",
             description: "Petualangan. Animation. Malaysia",
             link: "../films/upinipinkerissiamangtunggal/upinipinkerissiamangtunggal.html"
         },
         {
             title: "BoBoiBoy: The Movie",
-            poster: "../images/boboiboythemovie.jpg",
+            poster: "https://i.imgur.com/N7cVYv8.jpeg",
             description: "Laga. Komedi. Animation. Malaysia",
             link: "../films/boboiboythemovie/boboiboythemovie.html"
         },
         {
             title: "Agak Laen",
-            poster: "../images/Poster_Agak_Laen_(2024).jpg",
+            poster: "https://i.imgur.com/1nXigDd.jpeg",
             description: "Komedi/Horor",
             link: "../films/agaklaen/agaklaen.html"
         },
