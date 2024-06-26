@@ -128,91 +128,91 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             title: "Panggonan Wingit",
-            poster: "https://i.imgur.com/eHtuNo3.jpeg",
+            poster: "https://i.imgur.com/fNGmGRL.jpeg",
             description: "Horor/Indonesia",
             link: "../../films/panggonanwingit/panggonanwingit.html"
         },
         {
             title: "Primbon",
-            poster: "https://i.imgur.com/AHWaFLL.jpeg",
+            poster: "https://i.imgur.com/xQ8IMKQ.jpeg",
             description: "Horor/Drama",
             link: "../../films/primbon/primbon.html"
         },
         {
             title: "Ritual Tumbal Terakhir",
-            poster: "https://i.imgur.com/R85nSO6.jpeg",
+            poster: "https://i.imgur.com/ZMmheRo.jpeg",
             description: "Horor/Indonesia",
             link: "../../films/ritualtumbalterakhir/ritualtumbalterakhir.html"
         },
         {
             title: "Saranjana: Kota Ghaib",
-            poster: "https://i.imgur.com/x1wAi5r.jpeg",
+            poster: "https://i.imgur.com/QUbpl08.jpeg",
             description: "Horor/Petualangan",
             link: "../../films/saranjanakotaghoib/saranjanakotaghoib.html"
         },
         {
             title: "Sekte",
-            poster: "https://i.imgur.com/LBc8VOh.jpeg",
+            poster: "https://i.imgur.com/f3Mm8Zq.jpeg",
             description: "Horor/Drama",
             link: "../../films/sekte/sekte.html"
         },
         {
             title: "Sewu Dino",
-            poster: "https://i.imgur.com/EuxRVyO.jpeg",
+            poster: "https://i.imgur.com/Cbh1Oh6.jpeg",
             description: "Horor/Misteri",
             link: "../../films/sewudino/sewudino.html"
         },
         {
             title: "Sijjin",
-            poster: "https://i.imgur.com/BJP3O9Y.jpeg",
+            poster: "https://i.imgur.com/1SAl9wg.jpeg",
             description: "Horor/Religi",
             link: "../../films/sijjin/sijjin.html"
         },
         {
             title: "Siksa Neraka",
-            poster: "https://i.imgur.com/LD1LXiI.jpeg",
+            poster: "https://i.imgur.com/nFYie0n.jpeg",
             description: "Horor/Film jagal",
             link: "../../films/siksaneraka/siksaneraka.html"
         },
         {
             title: "Sinden Gaib",
-            poster: "https://i.imgur.com/wguodRv.jpeg",
+            poster: "https://i.imgur.com/1SrmVVv.jpeg",
             description: "Horor/Misteri",
             link: "../../films/sindengaib/sindengaib.html"
         },
         {
             title: "Sosok Ketiga",
-            poster: "https://i.imgur.com/sS2JhsF.jpeg",
+            poster: "https://i.imgur.com/9vmiNai.jpeg",
             description: "Horor/Misteri",
             link: "../../films/sosokketiga/sosokketiga.html"
         },
         {
             title: "Susuk: Kutukan Kecantikan",
-            poster: "https://i.imgur.com/t5sl66O.jpeg",
+            poster: "https://i.imgur.com/WLcEEZQ.jpeg",
             description: "Horor/Indonesia",
             link: "../../films/susukkutukankecantikan/susukkutukankecantikan.html"
         },
         {
             title: "Suzzanna: Malam Jumat Kliwon",
-            poster: "https://i.imgur.com/KSR4VSD.jpeg",
+            poster: "https://i.imgur.com/uvaSd5d.jpeg",
             description: "Horor/Misteri",
             link: "../../films/suzzannamalamjumatkliwon/suzzannamalamjumatkliwon.html"
         },
         {
             title: "Tasbih Kosong",
-            poster: "https://i.imgur.com/q9EBPwS.jpeg",
+            poster: "https://i.imgur.com/DHEEql9.jpeg",
             description: "Horor/Indonesia",
             link: "../../films/tasbihkosong/tasbihkosong.html"
         },
         {
             title: "Trinil: Kembalikan Tubuhku",
-            poster: "https://i.imgur.com/URdSEFg.jpeg",
+            poster: "https://i.imgur.com/hBIZZLU.jpeg",
             description: "Horor/Drama",
             link: "../../films/trinilkembalikantubuhku/trinilkembalikantubuhku.html"
         },
         {
             title: "Wakaf",
-            poster: "https://i.imgur.com/ytfSjTb.jpeg",
+            poster: "https://i.imgur.com/FQfSqpb.jpeg",
             description: "Horor/Indonesia",
             link: "../../films/wakaf/wakaf.html"
         },
