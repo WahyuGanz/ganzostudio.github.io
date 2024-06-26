@@ -2,9 +2,9 @@ document.addEventListener('DOMContentLoaded', function() {
     const films = [
         {
             title: "Geng: Pengembaraan Bermula (2009)",
-            poster: "../images/gengpengembaraanbermula.jpg",
+            poster: "https://i.imgur.com/BXcUbem.jpeg",
             description: "Anak-anak. Petualangan. Animation. Malaysia",
-            link: "https://i.imgur.com/BXcUbem.jpeg"
+            link: "../films/gengpengembaraanbermula/gengpengembaraanbermula.html"
         },
         {
             title: "Adit Sopo Jarwo the Movie",
