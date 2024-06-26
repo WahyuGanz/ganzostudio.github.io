@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "Geng: Pengembaraan Bermula (2009)",
             poster: "../images/gengpengembaraanbermula.jpg",
             description: "Anak-anak. Petualangan. Animation. Malaysia",
-            link: "../films/gengpengembaraanbermula/gengpengembaraanbermula.html"
+            link: "https://i.imgur.com/BXcUbem.jpeg"
         },
         {
             title: "Adit Sopo Jarwo the Movie",
