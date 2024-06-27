@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
         // Tambahkan film lain di sini
     ];
 
-    const filmList = document.getElementById("animation-film-list");
+    const filmList = document.getElementById("comedy-film-list");
 
     animationFilms.forEach(film => {
         const filmItem = document.createElement("div");
