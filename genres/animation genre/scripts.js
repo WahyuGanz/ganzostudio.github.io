@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             title: "Upin & Ipin: Keris Siamang Tunggal",
-            poster: "../../images/upinipinkerissiamangtunggal.jpeg",
+            poster: "https://i.imgur.com/j31aix4.jpeg",
             description: "Petualangan/Komedi",
             link: "../../films/upinipinkerissiamangtunggal/upinipinkerissiamangtunggal.html"
         },
@@ -20,31 +20,31 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             title: "Battle of Surabaya",
-            poster: "../../images/Battle_of_Surabaya.jpeg",
+            poster: "https://i.imgur.com/1P7Lwsh.jpeg",
             description: "Perang/Laga",
             link: "../../films/battleofsurabaya/battleofsurabaya.html"
         },
         {
             title: "BoBoiBoy Galaxy SORI",
-            poster: "../../images/boboiboygalaxysori.jpg",
+            poster: "https://i.imgur.com/jPBvR7S.png",
             description: "Petualangan/Komedi",
             link: "../../films/boboiboygalaxysori/boboiboygalaxysori.html"
         },
         {
             title: "BoBoiBoy The Movie",
-            poster: "../../images/boboiboythemovie.jpg",
+            poster: "https://i.imgur.com/ZHqAZ4A.jpeg",
             description: "Petualangan/Laga",
             link: "../../films/boboiboythemovie/boboiboythemovie.html"
         },
         {
             title: "BoBoiBoy Movie 2",
-            poster: "../../images/boboiboymovie2.jpg",
+            poster: "https://i.imgur.com/1OZ0HN1.png",
             description: "Petualangan/Laga",
             link: "../../films/boboiboymovie2/boboiboymovie2.html"
         },
         {
             title: "SpongeBob SquarePants Presents The Tidal Zone",
-            poster: "../../images/spongebobtidalzone.jpg",
+            poster: "https://i.imgur.com/kGUh00J.png",
             description: "Petualangan/Komedi",
             link: "../../films/spongebobtidalzone/spongebobtidalzone.html"
         }

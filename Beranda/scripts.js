@@ -20,13 +20,13 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             title: "Upin & Ipin: Keris Siamang Tunggal",
-            poster: "https://i.imgur.com/yIHzeDEY.jpg",
+            poster: "https://i.imgur.com/j31aix4.jpeg",
             description: "Petualangan. Animation. Malaysia",
             link: "../films/upinipinkerissiamangtunggal/upinipinkerissiamangtunggal.html"
         },
         {
             title: "BoBoiBoy: The Movie",
-            poster: "https://i.imgur.com/N7cVYv8.jpeg",
+            poster: "https://i.imgur.com/ZHqAZ4A.jpeg",
             description: "Laga. Komedi. Animation. Malaysia",
             link: "../films/boboiboythemovie/boboiboythemovie.html"
         },
