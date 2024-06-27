@@ -112,6 +112,11 @@ main {
     margin-bottom: 1rem;
 }
 
+.featured-movies h5 {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
 .movies-grid {
     display: flex;
     flex-wrap: wrap;
