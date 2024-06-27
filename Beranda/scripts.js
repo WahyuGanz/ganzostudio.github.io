@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             title: "Agak Laen",
-            poster: "https://i.imgur.com/1nXigDd.jpeg",
+            poster: "https://i.imgur.com/iu9gpsf.jpeg",
             description: "Komedi/Horor",
             link: "../films/agaklaen/agaklaen.html"
         },
