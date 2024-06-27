@@ -2,13 +2,13 @@ document.addEventListener('DOMContentLoaded', function() {
     const films = [
         {
             title: "Geng: Pengembaraan Bermula (2009)",
-            poster: "https://i.imgur.com/BXcUbem.jpeg",
+            poster: "https://i.imgur.com/uwTu2U3.jpeg",
             description: "Anak-anak. Petualangan. Animation. Malaysia",
             link: "../films/gengpengembaraanbermula/gengpengembaraanbermula.html"
         },
         {
             title: "Adit Sopo Jarwo the Movie",
-            poster: "https://i.imgur.com/I9tUYMB.jpeg",
+            poster: "https://i.imgur.com/8mbeKMs.jpeg",
             description: "Petualangan. Komedi. Animation. Indonesia",
             link: "../films/aditsopojarwothemovie/aditsopojarwothemovie.html"
         },
@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             title: "Upin & Ipin: Keris Siamang Tunggal",
-            poster: "https://i.imgur.com/yIHzDEY.jpeg",
+            poster: "https://i.imgur.com/yIHzeDEY.jpg",
             description: "Petualangan. Animation. Malaysia",
             link: "../films/upinipinkerissiamangtunggal/upinipinkerissiamangtunggal.html"
         },

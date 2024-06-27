@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const animationFilms = [
         {
             title: "Geng: Pengembaraan Bermula",
-            poster: "../../images/gengpengembaraanbermula.jpg",
+            poster: "https://i.imgur.com/uwTu2U3.jpeg",
             description: "Anak-anak/Petualangan",
             link: "../../films/gengpengembaraanbermula/gengpengembaraanbermula.html"
         },
@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             title: "Adit Sopo Jarwo the Movie",
-            poster: "../../images/aditsopojarwothemovie.jpg",
+            poster: "https://i.imgur.com/8mbeKMs.jpeg",
             description: "Petualangan. Komedi. Animation. Indonesia",
             link: "../../films/aditsopojarwothemovie/aditsopojarwothemovie.html"
         },
