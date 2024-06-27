@@ -2,91 +2,91 @@ document.addEventListener('DOMContentLoaded', function() {
     const animationFilms = [
         {
             title: "Agak Laen",
-            poster: "https://i.imgur.com/1nXigDd.jpeg",
+            poster: "https://i.imgur.com/iu9gpsf.jpeg",
             description: "Komedi/Horor",
             link: "../../films/agaklaen/agaklaen.html"
         },
         {
             title: "Aku Tahu Kapan Kamu Mati: Desa Bunuh Diri",
-            poster: "https://i.imgur.com/vdlLLA7.jpeg",
+            poster: "https://i.imgur.com/rCmowwk.jpeg",
             description: "Horor/Drama",
             link: "../../films/akutahukapankamumatidesabunuhdiri/akutahukapankamumatidesabunuhdiri.html"
         },
         {
             title: "Bangku Kosong: Ujian Terakhir",
-            poster: "https://i.imgur.com/Qsh9BOm.jpeg",
+            poster: "https://i.imgur.com/vNimhrp.jpeg",
             description: "Horor/Ketegangan",
             link: "../../films/bakukosongujianterakhir/bangkukosongujianterakhir.html"
         },
         {
             title: "Di Ambang Kematian",
-            poster: "https://i.imgur.com/vqpfYAe.jpeg",
+            poster: "https://i.imgur.com/F5lwNRR.jpeg",
             description: "Horor/Cerita seru",
             link: "../../films/diambangkematian/diambangkematian.html"
         },
         {
             title: "DreadOut",
-            poster: "https://i.imgur.com/He1WQQh.jpeg",
+            poster: "https://i.imgur.com/nXkgANx.jpeg",
             description: "Horor/Petualangan",
             link: "../../films/dreadout/dreadout.html"
         },
         {
             title: "Five Nights at Freddy's",
-            poster: "https://i.imgur.com/s3Nxj9v.jpeg",
+            poster: "https://i.imgur.com/4u0O8yL.jpeg",
             description: "Horor/Misteri",
             link: "../../films/fivenightsatfreddys/fivenightsatfreddys.html"
         },
         {
             title: "Ghostbuser: Misteri Desa Penari",
-            poster: "https://i.imgur.com/jUmCtIW.jpeg",
+            poster: "https://i.imgur.com/I3wruNW.jpeg",
             description: "Horor/Misteri",
             link: "../../films/ghostbusermisteridesapenari/ghostbusermisteridesapenari.html"
         },
         {
             title: "Hidayah",
-            poster: "https://i.imgur.com/M1Vr4Xm.jpeg",
+            poster: "https://i.imgur.com/9cqWc2l.jpeg",
             description: "Horor/Indonesia",
             link: "../../films/hidayah/hidayah.html"
         },
         {
             title: "Indigo: What Do You See?",
-            poster: "https://i.imgur.com/yZqE5Fe.jpeg",
+            poster: "https://i.imgur.com/LSnEYcb.jpeg",
             description: "Horor/Indonesia",
             link: "../../films/indigo/indigo.html"
         },
         {
             title: "Janin Iblis Neraka",
-            poster: "https://i.imgur.com/vav2vSG.jpeg",
+            poster: "https://i.imgur.com/0xkU7Qr.jpeg",
             description: "Horor/Drama",
             link: "../../films/janiniblisneraka/janiniblisneraka.html"
         },
         {
             title: "Kajiman: Iblis Terkejam Penagih Janji",
-            poster: "https://i.imgur.com/hHSFfC2.png",
+            poster: "https://i.imgur.com/tNPmpyQ.png",
             description: "Horor/Indonesia",
             link: "../../films/kajimaniblisterkejampenagihjanji/kajimaniblisterkejampenagihjanji.html"
         },
         {
             title: "KKN di Desa Penari: Luwih Dowo, Luwih Medeni",
-            poster: "https://i.imgur.com/lB2680z.jpeg",
+            poster: "https://i.imgur.com/mOIXTg8.jpeg",
             description: "Horor/Indonesia",
             link: "../../films/kknluwihdowo/kknluwihdowo.html"
         },
         {
             title: "Kultus Iblis",
-            poster: "https://i.imgur.com/9kafItN.jpeg",
+            poster: "https://i.imgur.com/BXnYKEr.jpeg",
             description: "Horor/Misteri",
             link: "../../films/kultusiblis/kultusiblis.html"
         },
         {
             title: "Kutukan Sembilan Setan",
-            poster: "https://i.imgur.com/w9m3M3u.jpeg",
+            poster: "https://i.imgur.com/zDJ7beT.jpeg",
             description: "Horor/Misteri",
             link: "../../films/kutukansembilansetan/kutukansembilansetan.html"
         },
         {
             title: "Lampor Keranda Terbang",
-            poster: "https://i.imgur.com/TDjJQP1.jpeg",
+            poster: "https://i.imgur.com/amEFEM0.jpeg",
             description: "Horor/Misteri",
             link: "../../films/lampor/lampor.html"
         },
