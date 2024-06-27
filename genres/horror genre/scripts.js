@@ -67,6 +67,12 @@ document.addEventListener('DOMContentLoaded', function() {
             link: "../../films/kajimaniblisterkejampenagihjanji/kajimaniblisterkejampenagihjanji.html"
         },
         {
+            title: "Kisah Tanah Jawa: Pocong Gundul",
+            poster: "https://i.imgur.com/PZ9JHv9.jpeg",
+            description: "Horor/Indonesia",
+            link: "../../films/kisahtanahjawapoconggundul/kisahtanahjawapoconggundul.html"
+        },
+        {
             title: "KKN di Desa Penari: Luwih Dowo, Luwih Medeni",
             poster: "https://i.imgur.com/mOIXTg8.jpeg",
             description: "Horor/Indonesia",
@@ -131,6 +137,12 @@ document.addEventListener('DOMContentLoaded', function() {
             poster: "https://i.imgur.com/fNGmGRL.jpeg",
             description: "Horor/Indonesia",
             link: "../../films/panggonanwingit/panggonanwingit.html"
+        },
+        {
+            title: "Pemandi Jenazah",
+            poster: "https://i.imgur.com/7iyTYIL.jpeg",
+            description: "Drama/Thriller/Horor/Indonesia",
+            link: "../../films/pemandijenazah/pemandijenazah.html"
         },
         {
             title: "Primbon",
