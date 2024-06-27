@@ -1,6 +1,12 @@
 document.addEventListener('DOMContentLoaded', function() {
     const animationFilms = [
         {
+            title: "Bu Tejo Sowan Jakarta",
+            poster: "https://i.imgur.com/RiLk5hB.jpeg",
+            description: "Komedi/Indonesia",
+            link: "../../films/butejosowanjakarta/butejosowanjakarta.html"
+        },
+        {
             title: "Tilik the Series",
             poster: "https://i.imgur.com/YSsIxFo.jpeg",
             description: "Komedi/Indonesia",
