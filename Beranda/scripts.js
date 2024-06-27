@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             title: "KKN di Desa Penari: Luwih Dowo, Luwih Medeni",
-            poster: "https://i.imgur.com/lB2680z.jpeg",
+            poster: "https://i.imgur.com/mOIXTg8.jpeg",
             description: "Horor. Misteri. Indonesia",
             link: "../films/kknluwihdowo/kknluwihdowo.html"
         },
