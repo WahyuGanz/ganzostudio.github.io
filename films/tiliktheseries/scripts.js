@@ -1,28 +1,52 @@
 document.addEventListener('DOMContentLoaded', function() {
     const episodes = [
         {
-            title: "Tilik The Series Episode 1",
-            poster: "../../images/poster1.jpg",
+            title: "Tilik the Series Episode 1",
+            poster: "https://i.imgur.com/YSsIxFo.jpeg",
             description: "Deskripsi singkat episode 1.",
-            video: "https://short.ink/CYG_V8JW-"
+            video: "https://short.ink/Lw7azK4QO"
         },
         {
-            title: "Episode 2",
-            poster: "../../images/poster2.jpg",
+            title: "Tilik the Series Episode 2",
+            poster: "https://i.imgur.com/YSsIxFo.jpeg",
             description: "Deskripsi singkat episode 2.",
-            video: "https://short.ink/FR3pLPsA5"
+            video: "https://short.ink/1bHMUF2Wy"
         },
         {
-            title: "Episode 3",
-            poster: "../../images/poster3.jpg",
+            title: "Tilik the Series Episode 3",
+            poster: "https://i.imgur.com/YSsIxFo.jpeg",
             description: "Deskripsi singkat episode 3.",
-            video: "https://www.youtube.com/embed/episode3"
+            video: "https://short.ink/h-Yif0v0M"
         },
         {
-            title: "Episode 4",
-            poster: "../../images/poster4.jpg",
+            title: "Tilik the Series Episode 4",
+            poster: "https://i.imgur.com/YSsIxFo.jpeg",
             description: "Deskripsi singkat episode 4.",
-            video: "https://www.youtube.com/embed/episode4"
+            video: "https://short.ink/yEX7CtZXH"
+        },
+        {
+            title: "Tilik the Series Episode 5",
+            poster: "https://i.imgur.com/YSsIxFo.jpeg",
+            description: "Deskripsi singkat episode 5.",
+            video: "https://short.ink/wmmTrAwe2"
+        },
+        {
+            title: "Tilik the Series Episode 6",
+            poster: "https://i.imgur.com/YSsIxFo.jpeg",
+            description: "Deskripsi singkat episode 6.",
+            video: "https://short.ink/HA5_PZO66"
+        },
+        {
+            title: "Tilik the Series Episode 7",
+            poster: "https://i.imgur.com/YSsIxFo.jpeg",
+            description: "Deskripsi singkat episode 7.",
+            video: "https://short.ink/cgHSu86Do"
+        },
+        {
+            title: "Tilik the Series Episode 8 END",
+            poster: "https://i.imgur.com/YSsIxFo.jpeg",
+            description: "Deskripsi singkat episode 8.",
+            video: "https://short.ink/-_zEbao4d"
         }
         // Tambahkan episode lain di sini
     ];

@@ -34,7 +34,7 @@ nav ul {
 }
 
 nav ul li {
-    margin: 0 1rem;
+    margin: 0 0.2rem;
 }
 
 nav ul li a {
@@ -86,6 +86,23 @@ main {
     margin-bottom: 1.5rem;
 }
 
+.video-player {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+#video-container {
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+}
+
+#video-container iframe {
+    width: 100%;
+    border-radius: 12px;
+    height: 360px;
+}
+
 .episodes-list {
     margin-top: 2rem;
 }
@@ -131,21 +148,4 @@ main {
 .episode-item p {
     font-size: 0.9rem;
     color: #B3B3B3;
-}
-
-.video-player {
-    margin-top: 2rem;
-    text-align: center;
-}
-
-#video-container {
-    width: 100%;
-    max-width: 800px;
-    margin: auto;
-}
-
-#video-container iframe {
-    width: 100%;
-    border-radius: 12px;
-    height: 360px;
 }
