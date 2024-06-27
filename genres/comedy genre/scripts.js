@@ -2,9 +2,9 @@ document.addEventListener('DOMContentLoaded', function() {
     const animationFilms = [
         {
             title: "Tilik the Series",
-            poster: "https://i.imgur.com/iu9gpsf.jpeg",
-            description: "Komedi/Horor",
-            link: "../../films/agaklaen/agaklaen.html"
+            poster: "https://i.imgur.com/YSsIxFo.jpeg",
+            description: "Komedi/Indonesia",
+            link: "../../films/tiliktheseries/film-series.html"
         },
         // Tambahkan film lain di sini
     ];
