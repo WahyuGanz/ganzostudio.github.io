@@ -119,7 +119,6 @@ button:hover {
     text-align: center;
 }
 
-/* Media Queries for Responsiveness */
 @media (max-width: 768px) {
     header {
         flex-direction: column;
@@ -141,15 +140,15 @@ button:hover {
     }
 
     .hero-content h2 {
-        font-size: 2rem;
+        font-size: 1.8rem;
     }
 
     .hero-content p {
-        font-size: 1rem;
+        font-size: 0.9rem;
     }
 
     .video-player iframe {
-        height: 240px;
+        height: 280px;
     }
 
     .episode-item {
@@ -163,7 +162,7 @@ button:hover {
     }
 
     .hero-content p {
-        font-size: 0.9rem;
+        font-size: 0.8rem;
     }
 
     .video-player iframe {
@@ -172,5 +171,9 @@ button:hover {
 
     .episode-item {
         width: 100%;
+    }
+
+    .episode-item h3 {
+        font-size: 1rem;
     }
 }

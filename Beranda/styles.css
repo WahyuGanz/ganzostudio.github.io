@@ -165,7 +165,6 @@ main {
     transform: scale(1.05);
 }
 
-/* Media Queries for Responsiveness */
 @media (max-width: 768px) {
     header {
         flex-direction: column;
@@ -187,15 +186,15 @@ main {
     }
 
     .hero-content h2 {
-        font-size: 2rem;
+        font-size: 1.8rem;
     }
 
     .hero-content p {
-        font-size: 1rem;
+        font-size: 0.9rem;
     }
 
     .video-player iframe {
-        height: 240px;
+        height: 280px;
     }
 
     .episode-item {
@@ -209,7 +208,7 @@ main {
     }
 
     .hero-content p {
-        font-size: 0.9rem;
+        font-size: 0.8rem;
     }
 
     .video-player iframe {
@@ -218,5 +217,9 @@ main {
 
     .episode-item {
         width: 100%;
+    }
+
+    .episode-item h3 {
+        font-size: 1rem;
     }
 }
