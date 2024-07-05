@@ -145,6 +145,12 @@ document.addEventListener('DOMContentLoaded', function() {
             link: "../../films/pemandijenazah/pemandijenazah.html"
         },
         {
+            title: "Pemukiman Setan",
+            poster: "https://i.imgur.com/kjTAz2T.jpeg",
+            description: "Horor/Laga",
+            link: "../../films/PemukimanSetan/pemukimansetan.html"
+        },
+        {
             title: "Primbon",
             poster: "https://i.imgur.com/xQ8IMKQ.jpeg",
             description: "Horor/Drama",
