@@ -3,38 +3,62 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login - Ganzo Studio</title>
+    <title>Beranda - Ganzo Studio</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="background-overlay"></div>
-    <div class="login-container">
-        <div class="login-content">
-            <div class="login-logo">
-                <img src="images/logo.png" alt="Ganzo Studio Logo">
-            </div>
-            <div class="login-form">
-                <h1>Ganzo Studio</h1>
-                <form id="loginForm">
-                    <div class="input-group">
-                        <label for="username">Username</label>
-                        <input type="text" id="username" name="username" required>
-                    </div>
-                    <div class="input-group">
-                        <label for="password">Password</label>
-                        <input type="password" id="password" name="password" required>
-                    </div>
-                    <div class="input-group">
-                        <label for="token">Token</label>
-                        <input type="text" id="token" name="token" required>
-                    </div>
-                    <button type="submit">Login</button>
-                </form>
-                <p id="error-message"></p>
-                <p><b>Pengguna Mobile Wajib Aktifkan Situs Desktop</b></p>
-            </div>
+    <header>
+        <div class="logo">
+            <img src="images/logo.png" alt="Ganzo Studio Logo">
+            <h1>Ganzo Studio</h1>
         </div>
-    </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Beranda</a></li>
+                <li><a href="genres/horror genre/horror.html">Horror</a></li>
+                <li><a href="genres/comedy genre/comedy.html">Comedy</a></li>
+                <li><a href="genres/animation genre/animation.html">Animation</a></li>
+                <li><a href="#">Action</a></li>
+                <li><a href="https://discord.gg/ganzostudio" target="_blank">Join Discord Ganzo Studio</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="hero">
+            <img src="images/hero-background.jpg" alt="Hero Background">
+            <div class="hero-content">
+                <h2>Selamat Datang di Ganzo Studio</h2>
+                <p>Nikmati streaming film terbaik.</p>
+                <button id="start-watching">Mulai Menonton</button>
+            </div>
+        </section>
+        <section class="featured-movies" id="featured-movies">
+            <h2>Film Unggulan</h2>
+            <div id="film-list" class="movies-grid"></div>
+        </section>
+        <div class="genre-judul">
+            <h2>Pilih Genre Film Yang Anda Sukai</h2>
+        </div>
+        <div class="genre-buttons">
+            <a href="genres/animation genre/animation.html" class="genre-button">Animation</a>
+            <a href="genres/horror genre/horror.html" class="genre-button">Horror</a>
+            <a href="#" class="genre-button">Action</a>
+            <a href="#" class="genre-button">Drama</a>
+            <a href="genres/comedy genre/comedy.html" class="genre-button">Comedy</a>
+            <h4>Jangan lupa hubungi admin melalui discord untuk melaporkan bug atau kesalahan pada website ini!</h4>
+        </div>
+        <div class="discord-admin">
+            <a href="https://discordapp.com/users/848726411060707369" class="discord-admin-button">
+                DM Discord Owner Ganzo Studio
+            </a>
+            <a href="https://discord.gg/yrww4yUnSE" class="discord-admin-button">
+                Join Discord Ganzo Studio
+            </a>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2024 Ganzo Studio. All rights reserved.</p>
+    </footer>
     <script src="scripts.js"></script>
 </body>
 </html>
